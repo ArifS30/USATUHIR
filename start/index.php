@@ -11,7 +11,7 @@ include "../config/databases.php";
   <meta name="description" content="">
   <meta name="author" content="">
   <link href="../logo.png" rel="icon">
-  <title>USB YPKP- Login</title>
+  <title>USB YPKP - Login</title>
   <link href="../apl/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="../apl/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="../apl/css/admin.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@ include "../config/databases.php";
                   <div class="text-center">
                   	<img src="../logo.png" class="img-fluid" width="100">
                     <hr>
-                    <h1 class="h4 text-gray-900 mb-4">Login <b>USB</b>USATUHIR</h1>
+                    <h1 class="h4 text-gray-900 mb-4">Login <b></b>USATUHIR</h1>
                   </div>
                   <p>
             <?php 

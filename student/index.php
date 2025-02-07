@@ -239,7 +239,7 @@ if (isset($_SESSION['MHS_SES'])) {
             <button id="sidebarToggleTop" class="btn btn-link rounded-circle mr-3">
                 <i class="fa fa-bars"></i>
             </button>
-            <span class="text-white">BimTA</span>
+            <span class="text-white">USATUHIR</span>
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item dropdown no-arrow mx-1">
@@ -374,7 +374,7 @@ if (isset($_SESSION['MHS_SES'])) {
             <div class="modal-body">
                 <center>
                     <h5 class="modal-title mt-4">Keluar Aplikasi !</h5>
-                    <p>Are you sure you want to logout ?</p>
+                    <p>Apakah anda yakin untuk keluar ?</p>
                     <button type="button" class="btn btn-outline-danger btn-sm mt-2"
                     data-dismiss="modal"><i class="fa fa-times"></i> Cancel</button>
                     <a href="../start/logout.php"
