@@ -1,18 +1,18 @@
 <!-- ======= Hero Section ======= -->
-  <section id="hero" style="background-image: url('assets/img/hero.webp');background-size:cover;">
+  <section id="hero" style="background-image: url('assets/img/download.jpeg');background-size:cover;">
 
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
           <div>
-            <h1 class="text-white">Bimbingan <b style="color: yellow">Tugas Akhir</b>  Online</h1>
-            <h2 class="text-white"><span style="border: 1px solid #fff;padding: 3px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;background: black">SEKOLAH TINGGI TEKNIK MALANG</span></h2>
+            <h1 class="text-white">Usulan <b style="color: yellow">Tugas Akhir</b>  Online</h1>
+            <h2 class="text-white"><span style="border: 1px solid #fff;padding: 3px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;background: black">Universitas Sangga Buana YPKP</span></h2>
             <a href="#about" class="btn-get-started scrollto">Mulai Bimbingan</a>
           </div>
         </div>
              <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
           <!-- <img src="front/assets/img/hero-img.png" class="img-fluid" alt=""> -->
-          <img src="logo.png" class="img-fluid">
+          <img src="assets/img/USB_YPKP_Logo.png" class="img-fluid">
 
         </div>
       </div>
@@ -28,20 +28,21 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="zoom-in">
-            <img src="assets/img/about.webp" class="img-fluid" alt="">
+            <img src="assets/img/HERO.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 d-flex flex-column justify-contents-center" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0">
-              <h3>Visi & Misi STT Malang</h3>
+              <h3>Visi & Misi USB YPKP</h3>
               <p class="fst-italic">
-                Menjadi salah satu Perguruan Tinggi yang terbaik di Indonesia yang berbasiskan Teknologi Informatika dan Komunikasi dengan berstandarkan kualitas International.
+              Menghasilkan lulusan bermutu yang memiliki kemampuan kewirausahaan dan berwawasan global.
               </p>
               <ul>
-                <li><i class="bi bi-check-circle"></i> Menyelenggarakan program pendidikan tinggi yang menunjang penerapan teknologi informasi dan komunikasi berstandar internasional.</li>
+                <li><i class="bi bi-check-circle"></i> Menyelenggarakan pendidikan bermutu berbasis kewirausahaan dan berwawasan global.  </li>
                 
-                <li><i class="bi bi-check-circle"></i> Melaksanakan penelitian demi pencapaian kreativitas dan inovasi.</li>
+                <li><i class="bi bi-check-circle"></i> Menyelenggarakan penelitian bermutu untuk menunjang penyelenggaraan pendidikan berbasis kewirausahaan dan berwawasan global.
+                </li>
                 
-                <li><i class="bi bi-check-circle"></i> Melakukan pengabdian kepada Masyarakat dalam mendistribusikan ilmu pengetahuan.</li>
+                <li><i class="bi bi-check-circle"></i> Menyelenggarakan pengabdian kepada masyarakat dalam rangka mengaplikasikan hasil pendidikan dan penelitian.</li>
                 
               </ul>
               <!--<p>-->

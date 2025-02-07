@@ -11,7 +11,7 @@ include "../config/databases.php";
   <meta name="description" content="">
   <meta name="author" content="">
   <link href="../logo.png" rel="icon">
-  <title>BIMTA - Login</title>
+  <title>USB YPKP - Login</title>
   <link href="../apl/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="../apl/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="../apl/css/admin.min.css" rel="stylesheet">

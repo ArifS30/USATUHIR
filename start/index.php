@@ -31,7 +31,7 @@ include "../config/databases.php";
                   <div class="text-center">
                   	<img src="../logo.png" class="img-fluid" width="100">
                     <hr>
-                    <h1 class="h4 text-gray-900 mb-4">Login <b>Bim</b>TA</h1>
+                    <h1 class="h4 text-gray-900 mb-4">Login <b>USB</b>USATUHIR</h1>
                   </div>
                   <p>
             <?php 
