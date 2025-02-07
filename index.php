@@ -8,7 +8,7 @@ $result = mysqli_query($con,"SELECT * FROM tb_info ORDER BY info_id ASC ");
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>BimTA - Sekolah Tinggi Teknik Malang</title>
+  <title>Universitas Sangga Buana YPKP</title>
   <meta content="Sistem Informasi Bimbingan Skripsi Online | Sistem Informasi Bimbingan Tugas Akhir  " name="description">
   <meta content="Sistem Informasi Bimbingan Skripsi Online | Sistem Informasi Bimbingan Tugas Akhir" name="keywords">
 
@@ -47,7 +47,7 @@ $result = mysqli_query($con,"SELECT * FROM tb_info ORDER BY info_id ASC ");
       <div class="logo me-auto">
         <!-- <h1><a href="./"><b style="color: #3F51B5">Bim</b>TA</a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <h1><a href="./web-admin"><img src="logo.png"class="img-fluid"> <b style="color: #3F51B5">Bim</b>TA</a></h1>
+        <h1><a href="./web-admin"><img src="logo.png"class="img-fluid"> <b style="color: #3F51B5">USB YPKP</b>TA</a></h1>
       </div>
 
       <nav id="navbar" class="navbar order-last order-lg-0">

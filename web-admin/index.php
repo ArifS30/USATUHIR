@@ -48,7 +48,7 @@ if (isset($_SESSION['ADMIN_SESS'])) {
                 <div class="sidebar-brand-icon">
                     <img src="../logo.png">
                 </div>
-                <div class="sidebar-brand-text mx-3"><b>STT MALANG</b></div>
+                <div class="sidebar-brand-text mx-3"><b>USB YPKP</b></div>
             </a>
             <hr class="sidebar-divider my-0">
             <li class="nav-item">
@@ -149,7 +149,6 @@ if (isset($_SESSION['ADMIN_SESS'])) {
             <button id="sidebarToggleTop" class="btn btn-link rounded-circle mr-3">
                 <i class="fa fa-bars"></i>
             </button>
-            <span class="text-white">BimTA</span>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item dropdown no-arrow">
 
