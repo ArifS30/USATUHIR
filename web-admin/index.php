@@ -48,7 +48,7 @@ if (isset($_SESSION['ADMIN_SESS'])) {
                 <div class="sidebar-brand-icon">
                     <img src="../logo.png">
                 </div>
-                <div class="sidebar-brand-text mx-3"><b>STT MALANG</b></div>
+                <div class="sidebar-brand-text mx-3"><b>USB YPKP</b></div>
             </a>
             <hr class="sidebar-divider my-0">
             <li class="nav-item">
