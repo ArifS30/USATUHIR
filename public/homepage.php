@@ -6,7 +6,7 @@
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
           <div>
             <h1 class="text-white">Usulan <b style="color: yellow">Tugas Akhir</b>  Online</h1>
-            <h2 class="text-white"><span style="border: 1px solid #fff;padding: 3px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;background: black">Universitas Sangga Buana YPKP</span></h2>
+            <h2 class="text-white"><span style="border: 1px solid #fff;padding: 3px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;background: blue">Universitas Sangga Buana YPKP</span></h2>
             <a href="#about" class="btn-get-started scrollto">Mulai Bimbingan</a>
           </div>
         </div>
