@@ -50,9 +50,9 @@ $pa = mysqli_fetch_assoc(mysqli_query($con,"SELECT nama_dosen FROM tb_dsn WHERE 
     <td><img src="../../logo.png" width="100"></td>
     <td>
       <center>
-        <h2><b>SEKOLAH TINGGI TEKNIK MALANG</b> <br>
+        <h2><b>Universitas Sangga Buana</b> <br>
           <small style="font-size: 14px;">
-          Jl. Soekarno Hatta No. 94 Malang, Telp/Fax.(0341)412611, Web : www.stt.ac.id
+          Jln. PHH Mustopa No 68. Bandung 40124, Web : https://sanggabuana.ac.id/
         </small>
         </h2>
         

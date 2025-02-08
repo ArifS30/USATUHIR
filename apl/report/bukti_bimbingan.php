@@ -43,10 +43,7 @@ $d = mysqli_fetch_assoc(mysqli_query($con, "SELECT * FROM pembing
             </td>
             <td>
                 <h4 align="center"><br>
-                    <!-- SEKOLAH TINGGI TRKNIK MALANG <br>  -->
-                    <?= strtoupper($d['fakultas']) ?>
-                    <p align="center" style="font-size: 9px;">Alamat : Jl. Soekarno Hatta No.94, Mojolangu, Kec.
-                        Lowokwaru,Kota Malang, Jawa Timur 65142</p>
+                    <?= strtoupper($d['fakultas']) ?>Jln. PHH Mustopa No 68. Bandung 40124.</p>
                 </h4>
 
             </td>
@@ -138,9 +135,7 @@ $d = mysqli_fetch_assoc(mysqli_query($con, "SELECT * FROM pembing
 
         <tr>
             <td align="right" colspan="6" rowspan="" headers="">
-                <p>Malang, <?php echo date(" d F Y") ?> <br>
-                    <!-- Dekan FTIK </p> <br> <br>
-            <p><u><b>Dr.H.Nunu Burnahunddin,Lc,M.Ag</b></u> <br><b>NIP. 197305102000121002</b></p> -->
+                <p>Bandung, <?php echo date(" d F Y") ?> <br>
             </td>
         </tr>
     </table>

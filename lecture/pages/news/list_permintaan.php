@@ -54,7 +54,7 @@ WHERE pembing.pembing_id=$readID AND tm_periode.stt_periode='on' "));
                   <td align="center">
                   <h4><strong style="text-transform: uppercase;">FAKULTAS <?= $detail['fakultas'] ?></strong></h4>
                   <h5><strong style="text-transform: uppercase;">PRODI DAN KONSENTRASI <?= $detail['prodi'] ?></strong></h5>
-                  <p align="center"><em>Alamat : Jl. Soekarno Hatta No.94, Mojolangu, Kec. Lowokwaru,Kota Malang, Jawa Timur 65142</em></p>
+                  <p align="center"><em>Alamat :Jln. PHH Mustopa No 68. Bandung 40124.</em></p>
                   </td>
                   </tr>
                   </table>
