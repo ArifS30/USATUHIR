@@ -76,7 +76,7 @@ WHERE pembing.pembing_id=$readID AND tm_periode.stt_periode='on' "));
                   </p>
 
                   <p>&nbsp; &nbsp;Sesuai dengan usulan Pembimbing Skripsi yang dia ajukan oleh Mahasiswa Prodi <?= $detail['prodi'] ?> <br>
-                  Fakultas <?= $detail['fakultas'] ?> Sekolah Tinggi Tekni Malang, Maka bersama ini dimohon kesediaan Bapak/Ibu sebagai pembimbing Skripsi Mahasiswa dibawah ini :
+                  Fakultas <?= $detail['fakultas'] ?> Universitas Sangga Buana, Maka bersama ini dimohon kesediaan Bapak/Ibu sebagai pembimbing Skripsi Mahasiswa dibawah ini :
                   </p>
             </div>
             <div class="card-header bg-gradient-light text-black" style="text-transform: uppercase;color: black">
